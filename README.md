@@ -9,9 +9,13 @@ El link de la página: [MUCHO MEJOR EC](https://www.muchomejorec.com/).
 Requisitos para la practica:
 
 Un entorno de desarrollo: Pycharm
+
 Utilizar base de datos: MongoDB
+
 Navegador Web: Google Chrome para la práctica.
+
 Instalar un Web Driver de la versión del navegador web
+
 Instalar Selenium en Pycharm.
 
 DESARROLLO
