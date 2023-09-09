@@ -29,3 +29,8 @@ La información extraída se visualizará en la base de datos y será almacenada
 
 ![image](https://github.com/davidona87/examen_final1/assets/140219605/71df7752-d035-4868-b7e4-d68abf87d329)
 
+Diagramas
+
+![image](https://github.com/davidona87/examen_final1/assets/140219605/efff0d67-aa66-4187-8dc5-0bc402d6de1c)
+
+
