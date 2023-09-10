@@ -16,7 +16,6 @@ mongodb = MongoDriver()
 
 for lapt in articles:
     try:
-        #image = card.find_element(By.CSS_SELECTOR, "div > div > div.left-block2.col-xs-4.col-xs-4.col-md-3 > div > a > img").image
         title = lapt.find_element(By.CSS_SELECTOR, "body > section > section > div > div > div > section > div > div:nth-child(2) > div > div > div > a:nth-child(1) > div.marca > span").text
         description = lapt.find_element(By.CSS_SELECTOR, "body > section > section > div > div > div > section > div > div:nth-child(2) > div > div > div > a:nth-child(1) > div.aparecer > p").text
         price = lapt.find_element(By.CSS_SELECTOR, "body > section > section > div > div > div > section > div > div:nth-child(2) > div > div > div > a:nth-child(1) > h5.precio").text

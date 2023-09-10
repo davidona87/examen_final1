@@ -23,7 +23,7 @@ except Exception as e:
 
 def read():
     try:
-        lectura = client.get_database('db_art').get_collection('suministros').find()
+        lectura = client.get_database('db_art').get_collection('David Oña').find()
         for file in lectura:
             print(file)
     except Exception as e:
