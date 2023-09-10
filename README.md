@@ -8,15 +8,15 @@ El link de la página: [MUCHO MEJOR EC](https://www.muchomejorec.com/).
 
 ## Requisitos para la practica:
 
-Un entorno de desarrollo: Pycharm
+*  Un entorno de desarrollo: Pycharm
 
-Utilizar base de datos: MongoDB
+*  Utilizar base de datos: MongoDB
 
-Navegador Web: Google Chrome para la práctica.
+*  Navegador Web: Google Chrome para la práctica.
 
-Instalar un Web Driver de la versión del navegador web
+*  Instalar un Web Driver de la versión del navegador web
 
-Instalar Selenium en Pycharm.
+*  Instalar Selenium en Pycharm.
 
 ## DESARROLLO
 
@@ -41,4 +41,7 @@ El código lo podemos ver en el archivo [db.py](https://github.com/davidona87/ex
 
 ![image](https://github.com/davidona87/examen_final1/assets/140219605/efff0d67-aa66-4187-8dc5-0bc402d6de1c)
 
+## Conclusión 
+
+El web scraping es una poderosa herramienta que puede transformar la forma en que se realiza la investigación de mercado, se automatizan los procesos empresariales, se generan listas de clientes potenciales y se mantiene informada a una marca.
 
