@@ -1,4 +1,4 @@
-# examen_final1
+# Extracion de Datos con Selenium
 La prueba final consiste en extraer datos de una página web, la pagina seleccionada es MUCHO MEJOR EC la cual vende artículos de tecnología
 
 El link de la página: [MUCHO MEJOR EC](https://www.muchomejorec.com/).
